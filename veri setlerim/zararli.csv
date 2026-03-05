@@ -1,0 +1,251 @@
+id,text,label,category
+1,"Sayın müşterimiz, kargonuz adresinizde bulunamadığınız için teslim edilemedi. Tekrar planlamak için hemen tıklayın: http://kargo-teslimat.net",phishing,kargo
+2,Kargo gönderiniz teslim edilemedi! 24 saat içinde işlem yapmazsanız iade edilecektir: http://teslimat-onayla.co,phishing,kargo
+3,Paketiniz dağıtıma çıktı ancak eksik adres nedeniyle teslim edilemedi. Bilgilerinizi güncelleyin: http://adres-duzelt.info,phishing,kargo
+4,Kargonuz beklemede! Son teslimat denemesi için onay verin: http://hizli-kargo.link,phishing,kargo
+5,Gönderiniz teslim edilemedi. Ek ücret uygulanmaması için hemen kontrol edin: http://ucret-kontrol.net,phishing,kargo
+6,Acil! Kargonuz şubeye geri gönderilmek üzere. Teslim almak için tıklayın: http://kargo-acil.org,phishing,kargo
+7,Dağıtım sırasında adresinizde bulunamadınız. Yeniden teslimat için: http://yeniteslimat.co,phishing,kargo
+8,Kargo şirketi bildirimi: Paketiniz askıya alındı. Hemen doğrulayın: http://dogrulama-kargo.net,phishing,kargo
+9,Teslimat başarısız oldu! Son işlem süresi dolmadan tıklayın: http://teslim-son.com,phishing,kargo
+10,Kargonuz güvenlik nedeniyle bekletiliyor. Onay için giriş yapın: http://guvenli-teslim.link,phishing,kargo
+11,Paketiniz teslim edilemedi. 12 saat içinde güncelleme yapın: http://12saat-kargo.info,phishing,kargo
+12,Kargo bildirimi: Eksik posta kodu nedeniyle teslim edilemedi. Düzeltmek için: http://posta-kod.net,phishing,kargo
+13,Kargonuz depoda bekliyor. İade edilmemesi için hemen işlem yapın: http://depo-kargo.co,phishing,kargo
+14,Teslimat başarısız! Adres teyidi için giriş yapın: http://adres-teyit.org,phishing,kargo
+15,Son uyarı: Kargonuz geri gönderilecek. Hemen tıklayın: http://son-uyari-kargo.net,phishing,kargo
+16,Paketiniz teslim edilemedi. Yeni tarih seçmek için: http://tarih-sec.link,phishing,kargo
+17,Gönderiniz askıya alındı. Ücret yansımaması için kontrol edin: http://ucret-bilgi.co,phishing,kargo
+18,Kargo bildirimi: Kimlik doğrulaması gerekiyor. Hemen giriş yapın: http://kimlik-kargo.net,phishing,kargo
+19,Teslim edilemeyen paketiniz için işlem süresi doluyor: http://sure-doluyor.info,phishing,kargo
+20,Kargonuz yanlış adres nedeniyle teslim edilemedi. Güncellemek için: http://adres-guncelle.co,phishing,kargo
+21,Acil teslimat bildirimi! Hemen doğrulamazsanız iptal edilecek: http://iptal-onay.net,phishing,kargo
+22,Paketiniz dağıtımda kayda alınamadı. İşlem için tıklayın: http://kayit-kargo.link,phishing,kargo
+23,Kargonuz teslim edilemedi. 6 saat içinde işlem yapın: http://6saat-teslim.info,phishing,kargo
+24,Son deneme başarısız oldu. Yeni teslimat için giriş yapın: http://son-deneme.co,phishing,kargo
+25,Gönderiniz bekletiliyor. Hemen adres doğrulaması yapın: http://adres-onay.net,phishing,kargo
+26,Kargo teslim edilemedi. Ek depolama ücreti uygulanmadan önce: http://depolama-ucret.link,phishing,kargo
+27,Paketiniz için acil işlem gerekiyor: http://acil-kargo.co,phishing,kargo
+28,Teslimat başarısız. Yeniden planlamak için tıklayın: http://planla-kargo.net,phishing,kargo
+29,Kargonuz askıya alındı. Onay vermek için giriş yapın: http://onay-kargo.info,phishing,kargo
+30,Kargo şirketi uyarısı: Teslim edilemedi. Son 24 saat: http://24saat-kargo.co,phishing,kargo
+31,Paketiniz iade sürecine girdi. Durdurmak için tıklayın: http://iade-durdur.net,phishing,kargo
+32,Adres doğrulaması yapılmadığı için teslim edilemedi: http://dogrula-adres.link,phishing,kargo
+33,Kargonuz dağıtım merkezinde bekliyor. Hemen işlem yapın: http://merkez-kargo.info,phishing,kargo
+34,Teslim edilemeyen paketiniz için son şans: http://son-sans-kargo.co,phishing,kargo
+35,Gönderiniz bloke edildi. Bilgilerinizi doğrulayın: http://bloke-kargo.net,phishing,kargo
+36,Kargo bildirimi: Teslim edilemedi. Yeni tarih belirlemek için: http://tarih-belirle.link,phishing,kargo
+37,Paketiniz adres hatası nedeniyle beklemede: http://adres-hata.info,phishing,kargo
+38,Kargonuz geri gönderilmeden önce işlem yapın: http://geri-kargo.co,phishing,kargo
+39,Teslim başarısız. Ek ücret uygulanabilir. Hemen kontrol edin: http://ek-ucret.net,phishing,kargo
+40,Son uyarı! Paketiniz teslim edilemedi: http://uyari-kargo.link,phishing,kargo
+41,Kargonuz sistemde askıda. Onay için tıklayın: http://sistem-kargo.info,phishing,kargo
+42,Dağıtım başarısız oldu. Adresinizi güncelleyin: http://guncelle-kargo.co,phishing,kargo
+43,Paketiniz teslim edilemedi. Güvenlik kontrolü için giriş yapın: http://guvenlik-kargo.net,phishing,kargo
+44,Kargonuz şubede bekliyor. 12 saat içinde alınmazsa iade: http://sube-kargo.link,phishing,kargo
+45,Teslimat iptal edilmek üzere. Hemen işlem yapın: http://iptal-kargo.info,phishing,kargo
+46,Kargo bildirimi: Eksik bilgi nedeniyle teslim edilemedi: http://bilgi-kargo.co,phishing,kargo
+47,Paketiniz dağıtım merkezinde bloke edildi. Doğrulamak için: http://merkez-bloke.net,phishing,kargo
+48,Kargonuz teslim edilemedi. Yeniden yönlendirme için: http://yonlendir-kargo.link,phishing,kargo
+49,Gönderiniz için son işlem süresi doluyor. Hemen tıklayın: http://sure-kargo.info,phishing,kargo
+50,Acil! Kargonuz teslim edilemedi. İade olmaması için şimdi doğrulayın: http://dogrula-kargo.co,phishing,kargo
+51,Son ekonomik destek ödemeniz askıya alındı. 12 saat içinde doğrulamazsanız iptal edilecek: http://ekonomi-destek.net,phishing,ekonomi
+52,Vergi iadeniz hesabınıza aktarılamadı. Hemen IBAN doğrulayın: http://vergi-iade.co,phishing,ekonomi
+53,Devlet destek paketi başvurunuz onaylandı. Ödemeyi almak için giriş yapın: http://destek-odeme.link,phishing,ekonomi
+54,Enflasyon farkı geri ödemeniz bekliyor. Talep etmek için tıklayın: http://geri-odeme.info,phishing,ekonomi
+55,Borsa yatırım hesabınız güvenlik nedeniyle donduruldu. Açmak için: http://borsa-guvenlik.net,phishing,ekonomi
+56,Kültür festivali ücretsiz bilet kazandınız! Onay için tıklayın: http://bilet-kultur.link,phishing,kultur_sanat
+57,Sanat etkinliği davetiniz beklemede. Katılımı doğrulayın: http://etkinlik-onay.co,phishing,kultur_sanat
+58,Sinema üyeliğiniz askıya alındı. Yenilemek için giriş yapın: http://sinema-uyelik.net,phishing,kultur_sanat
+59,Konser bileti iadeniz alınamadı. Hesap doğrulamak için: http://konser-iade.info,phishing,kultur_sanat
+60,Müze kartınız iptal edilmek üzere. Hemen doğrulayın: http://muze-kart.link,phishing,kultur_sanat
+61,Sağlık sigortanız eksik belge nedeniyle askıya alındı: http://saglik-dogrula.net,phishing,saglik
+62,Acil sağlık taraması randevunuz onay bekliyor: http://randevu-onay.co,phishing,saglik
+63,e-Nabız hesabınızda şüpheli işlem tespit edildi: http://enabiz-guvenlik.link,phishing,saglik
+64,Aşı kaydınız eksik görünüyor. Güncellemek için: http://asi-guncelle.info,phishing,saglik
+65,Sağlık destek ödemeniz bloke edildi. Hemen giriş yapın: http://destek-saglik.net,phishing,saglik
+66,Seçmen kaydınız askıya alındı. Güncellemezseniz oy kullanamazsınız: http://secmen-dogrula.link,phishing,siyaset
+67,Resmi seçim bildirimi: Kimlik doğrulaması gerekli: http://oy-onay.co,phishing,siyaset
+68,Devlet portalı hesabınız bloke edildi: http://devlet-guvenlik.net,phishing,siyaset
+69,Resmi destek başvurunuz onay bekliyor: http://resmi-basvuru.info,phishing,siyaset
+70,Vatandaşlık bilgilerinizde hata tespit edildi: http://kimlik-guncelle.link,phishing,siyaset
+71,Maç bileti iadeniz başarısız oldu. IBAN doğrulayın: http://mac-iade.net,phishing,spor
+72,Kulüp üyeliğiniz askıya alındı. Yenilemek için giriş yapın: http://uyelik-spor.co,phishing,spor
+73,Spor bahis hesabınız güvenlik nedeniyle kilitlendi: http://bahis-guvenlik.link,phishing,spor
+74,Turnuva ödülünüz beklemede. Talep etmek için tıklayın: http://odul-spor.info,phishing,spor
+75,Stadyum giriş kartınız iptal edildi: http://kart-onay.net,phishing,spor
+76,Bulut depolama hesabınız doldu. Verilerin silinmemesi için: http://cloud-dogrula.link,phishing,teknoloji
+77,Sosyal medya hesabınız şüpheli giriş nedeniyle askıya alındı: http://hesap-guvenlik.co,phishing,teknoloji
+78,E-posta hesabınız kapanmak üzere. Hemen doğrulayın: http://mail-onay.net,phishing,teknoloji
+79,Kripto cüzdanınız risk altında. Güvenlik güncellemesi yapın: http://kripto-guvenlik.info,phishing,teknoloji
+80,Yazılım lisansınız iptal edildi. Yenilemek için giriş yapın: http://lisans-teknoloji.link,phishing,teknoloji
+81,Kargonuz gümrükte takıldı! Gümrük vergisini ödeyerek teslim alabilirsiniz: http://gumruk-vergi-kargo.net,phishing,kargo
+82,Uluslararası gönderiniz için eksik ağırlık ücreti talep edilmektedir: http://eksik-ucret-odeme.com,phishing,kargo
+83,Kargonuz 1.99 TL eksik ödeme nedeniyle depoda bekletilmektedir. Hemen tamamlayın: http://kargo-eksik-tutar.info,phishing,kargo
+84,Adres hatası sebebiyle kargonuz geri iade edilecektir. Güncelleyin: http://ptt-adres-duzelt.net,phishing,kargo
+85,"Kargo şirketinden aradılar, evinize geldik yoktunuz kargonuz şubede: http://kargo-sube-sorgula.com",phishing,kargo
+86,PTT Kargo gönderiniz için dağıtım bedeli ödenmemiştir: http://ptt-dagitim-bedeli.co,phishing,kargo
+87,Tebrikler! Çekilişten iPhone 15 Pro Max kazandınız. Kargo bilgilerinizi girin: http://iphone-kazan-kargo.net,phishing,odul
+88,A101 hediye çeki kazanan şanslı numara sizsiniz! Hemen talep edin: http://a101-hediye-ceki.com,phishing,odul
+89,Trendyol 10. yıla özel 1000 TL indirim kuponunuz hesabınıza eklendi: http://trendyol-kupon-aktif.info,phishing,odul
+90,Sadakat programımız kapsamında 50.000 puan kazandınız. Puanları nakde çevirin: http://puan-nakit-cevir.co,phishing,odul
+91,Migros Money kartınıza tanımlanan ödülü almak için linke tıklayın: http://migros-odul-kampanya.net,phishing,odul
+92,"Tiktok'ta sana gizli bir video gönderildi, açmak için hemen tıkla: http://tiktok-gizli-video.com",phishing,teknoloji
+93,Steam hesabınız VAC ban riski altındadır. Hesabınızı doğrulayın: http://steam-vac-dogrula.net,phishing,teknoloji
+94,Oyun hesabınıza 10.000 bedava elmas yüklendi! Aktif etmek için: http://bedava-elmas-al.info,phishing,teknoloji
+95,Hesabınız kalıcı olarak silinmek üzere! İşlemi durdurmak için: http://hesap-silme-durdur.co,phishing,teknoloji
+96,Kredi kartı limit artış talebiniz onaylandı. Limitinizi belirlemek için: http://limit-artis-onay.net,phishing,ekonomi
+97,Banka kartınızın şifresi 3 kez yanlış girildi. Kartınızı açmak için: http://kart-sifre-bloke.com,phishing,ekonomi
+98,SGK prim iadeniz hesaplanmıştır. Tutarınızı almak için giriş yapınız: http://sgk-prim-iade.co,phishing,ekonomi
+99,Yasadışı sitelere girişiniz tespit edilmiştir. Adli para cezası ödeme: http://adli-para-cezasi.net,phishing,hukuk
+100,E-devlet şifrenizin süresi dolmuştur. Yeni şifre almak için tıklayın: http://edevlet-sifre-yenile.com,phishing,teknoloji
+101,Kargonuzda sıvı akıntısı tespit edildiğinden teslimat durduruldu. Bilgi alın: http://kargo-hasar-bilgi.net,phishing,kargo
+102,Alıcı ödemeli kargonuzun tutarını online olarak ödeyebilirsiniz: http://alici-odeme-kargo.com,phishing,kargo
+103,Siparişiniz iptal edildi ve iade süreci başlatıldı. Kontrol etmek için: http://siparis-iptal-iade.info,phishing,kargo
+104,"Sayın mükellef, eksik beyanname bildiriminiz bulunmaktadır: http://gib-beyanname-ceza.co",phishing,ekonomi
+105,Tapu harcı ödemeniz eksik yatırılmıştır. Tamamlamak için tıklayın: http://tapu-harci-odeme.net,phishing,ekonomi
+106,Yurtdışı çıkış harcınız onaylanmadı. Tekrar işlem yapmak için: http://yurtdisi-harc-onay.com,phishing,ekonomi
+107,Araç muayene randevunuz iptal edilmiştir. Yeni randevu ve ödeme için: http://tuvturk-randevu-al.info,phishing,kurum
+108,Zorunlu trafik sigortanızın süresi dolmuştur. Cezaya düşmemek için: http://trafik-sigorta-yenile.co,phishing,kurum
+109,Numara taşıma talebiniz alınmıştır. Siz yapmadıysanız iptal edin: http://numara-tasima-iptal.net,phishing,teknoloji
+110,Faturanıza ek cihaz talebiniz onaylanmıştır. Teslimat adresi giriniz: http://ek-cihaz-teslimat.com,phishing,teknoloji
+111,Digiturk aboneliğiniz sona ermiştir. Kampanyalı yenileme için tıklayın: http://digiturk-yenile-kampanya.info,phishing,teknoloji
+112,Superonline fiber altyapı ücreti faturanıza yansıtılmıştır. İtiraz için: http://fiber-ucret-itiraz.co,phishing,teknoloji
+113,Adınıza tanımlı FETÖ/PDY soruşturması başlatılmıştır. İfade için: http://sorusturma-ifade-ver.net,phishing,hukuk
+114,Emniyet Genel Müdürlüğü: Aracınız suça karışmıştır. Detaylar için: http://egm-arac-sorgu.com,phishing,hukuk
+115,Gümrük muhafaza memurları kargonuzu incelemeye almıştır: http://gumruk-inceleme.info,phishing,hukuk
+116,Kara para aklama şüphesiyle banka hesaplarınız dondurulmuştur: http://masak-hesap-bloke.co,phishing,hukuk
+117,Özel sağlık sigortası yenilemeniz onay bekliyor: http://saglik-sigorta-onay.net,phishing,kurum
+118,Aşı randevunuz oluşturulmuştur. Sisteme giriş yaparak onaylayınız: http://enabiz-asi-onay.com,phishing,kurum
+119,Belediye sosyal yardım başvurunuz kabul edilmiştir. Kartınızı alın: http://sosyal-yardim-kart.info,phishing,kurum
+120,Seçmen kaydınız silinmiştir. Yeniden kayıt oluşturmak için: http://ysk-secmen-kayit.co,phishing,kurum
+121,Youtube Premium ödemeniz gerçekleştirilemedi. Kart bilgilerinizi güncelleyin: http://youtube-premium-hata.net,phishing,teknoloji
+122,Google Drive depolama alanınız doldu. Dosyalarınız silinecek: http://drive-kota-artir.com,phishing,teknoloji
+123,Microsoft hesabınıza anormal bir giriş saptandı. Doğrulamak için: http://microsoft-anormal-giris.info,phishing,teknoloji
+124,LinkedIn profiliniz inceleniyor. Gerçek kişi olduğunuzu kanıtlayın: http://linkedin-profil-onay.co,phishing,teknoloji
+125,Bursluluk sınavını kazandınız! Kayıt işlemleri için formu doldurun: http://meb-burs-kayit.net,phishing,kurum
+126,KYK Kredi ödemeniz gecikmiştir. Gecikme faizi uygulanacaktır: http://kyk-kredi-gecikme.com,phishing,kurum
+127,ÖSYM sınav yeri değişikliği yapılmıştır. Yeni belgenizi indirin: http://osym-sinav-belge.info,phishing,kurum
+128,AÖF harç ödemesi yapılmadığından kaydınız silinecektir: http://aof-harc-odeme.co,phishing,kurum
+129,"Tebrikler, tatil çekilişini kazandınız! Sadece vergiyi ödeyin: http://tatil-kazan-vergi.net",phishing,odul
+130,Bitcoin hesabınıza 0.5 BTC aktarıldı. Çekmek için cüzdanınızı bağlayın: http://btc-cuzdan-bagla.com,phishing,odul
+131,Şans topu ikramiyesi vurdunuz! Biletinizi sorgulamak için: http://ikramiye-sorgula.info,phishing,odul
+132,Milli Piyango özel çekilişine katılmak için hemen bilet alın: http://milli-piyango-bilet.co,phishing,odul
+133,Telefonunuza casus yazılım yüklendi! Hemen temizleyiciyi çalıştırın: http://casus-yazilim-temizle.net,phishing,teknoloji
+134,Fiziksel sim kartınız e-sim'e taşınıyor. Onaylamıyorsanız: http://esim-tasima-iptal.com,phishing,teknoloji
+135,"Sana özel indirimli altın fırsatını kaçırma, hemen satın al: http://indirimli-altin-al.info",phishing,ekonomi
+136,Borsa hesabınızda açığa satış işlemi yapıldı. Kapatmak için: http://borsa-aciga-satis.co,phishing,ekonomi
+137,Sanal kartınızla 15.000 TL harcama yapıldı. İptal için: http://sanal-kart-iptal.net,phishing,ekonomi
+138,D-Smart faturanız 3 aydır ödenmediği için yasal işlem başlatılacak: http://dsmart-yasal-islem.com,phishing,hukuk
+139,Digiturk cihazınızı iade etmediğiniz için ceza yansıtılmıştır: http://cihaz-iade-ceza.info,phishing,hukuk
+140,İnternet sağlayıcınız hızınızı kısıtladı. Eski hıza dönmek için: http://hiz-kisitlama-kaldir.co,phishing,teknoloji
+141,Oturma izni başvurunuz reddedildi. İtiraz için göç idaresine başvurun: http://goc-idaresi-itiraz.net,phishing,kurum
+142,Pasaport harcınız iade edilecektir. İade formu için tıklayın: http://pasaport-harc-iade.com,phishing,kurum
+143,E-okul veli bilgilendirme sistemi çöktü. Yeni sisteme giriş yapın: http://yeni-eokul-giris.info,phishing,kurum
+144,Sağlık bakanlığı check-up kampanyasından yararlanmak için: http://checkup-kampanya.co,phishing,kurum
+145,Aracınızın kasko değeri güncellenmiştir. Prim farkını ödemek için: http://kasko-prim-farki.net,phishing,ekonomi
+146,Bireysel emeklilik hesabınızdan çıkış yapılmıştır. Tutarınızı çekin: http://bes-cikis-yap.com,phishing,ekonomi
+147,Otoyol geçişinde kaçak geçiş ihlali tespit edildi: http://kacak-gecis-ihlal.info,phishing,hukuk
+148,Havaalanı otopark borcunuz bulunmaktadır: http://otopark-borc-ode.co,phishing,kurum
+149,Cep telefonunuz klonlanmıştır! İletişime kapanmaması için: http://imei-klon-kaldir.net,phishing,teknoloji
+150,"Sayın abone, hattınız spam mesaj gönderimi nedeniyle kapatılacaktır: http://hat-kapanma-iptal.com",phishing,teknoloji
+151,Acil bildirim: kargo işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,kargo
+152,ekonomi hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,ekonomi
+153,Son uyarı: kultur_sanat işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,kultur_sanat
+154,saglik hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,saglik
+155,siyaset sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,siyaset
+156,spor bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,spor
+157,teknoloji hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,teknoloji
+158,kargo başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,kargo
+159,ekonomi işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,ekonomi
+160,kultur_sanat sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,kultur_sanat
+161,Acil bildirim: saglik işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,saglik
+162,siyaset hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,siyaset
+163,Son uyarı: spor işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,spor
+164,teknoloji hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,teknoloji
+165,kargo sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,kargo
+166,ekonomi bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,ekonomi
+167,kultur_sanat hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,kultur_sanat
+168,saglik başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,saglik
+169,siyaset işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,siyaset
+170,spor sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,spor
+171,Acil bildirim: teknoloji işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,teknoloji
+172,kargo hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,kargo
+173,Son uyarı: ekonomi işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,ekonomi
+174,kultur_sanat hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,kultur_sanat
+175,saglik sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,saglik
+176,siyaset bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,siyaset
+177,spor hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,spor
+178,teknoloji başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,teknoloji
+179,kargo işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,kargo
+180,ekonomi sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,ekonomi
+181,Acil bildirim: kultur_sanat işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,kultur_sanat
+182,saglik hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,saglik
+183,Son uyarı: siyaset işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,siyaset
+184,spor hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,spor
+185,teknoloji sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,teknoloji
+186,kargo bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,kargo
+187,ekonomi hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,ekonomi
+188,kultur_sanat başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,kultur_sanat
+189,saglik işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,saglik
+190,siyaset sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,siyaset
+191,Acil bildirim: spor işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,spor
+192,teknoloji hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,teknoloji
+193,Son uyarı: kargo işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,kargo
+194,ekonomi hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,ekonomi
+195,kultur_sanat sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,kultur_sanat
+196,saglik bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,saglik
+197,siyaset hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,siyaset
+198,spor başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,spor
+199,teknoloji işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,teknoloji
+200,kargo sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,kargo
+201,Acil bildirim: ekonomi işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,ekonomi
+202,kultur_sanat hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,kultur_sanat
+203,Son uyarı: saglik işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,saglik
+204,siyaset hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,siyaset
+205,spor sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,spor
+206,teknoloji bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,teknoloji
+207,kargo hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,kargo
+208,ekonomi başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,ekonomi
+209,kultur_sanat işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,kultur_sanat
+210,saglik sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,saglik
+211,Acil bildirim: siyaset işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,siyaset
+212,spor hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,spor
+213,Son uyarı: teknoloji işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,teknoloji
+214,kargo hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,kargo
+215,ekonomi sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,ekonomi
+216,kultur_sanat bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,kultur_sanat
+217,saglik hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,saglik
+218,siyaset başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,siyaset
+219,spor işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,spor
+220,teknoloji sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,teknoloji
+221,Acil bildirim: kargo işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,kargo
+222,ekonomi hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,ekonomi
+223,Son uyarı: kultur_sanat işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,kultur_sanat
+224,saglik hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,saglik
+225,siyaset sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,siyaset
+226,spor bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,spor
+227,teknoloji hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,teknoloji
+228,kargo başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,kargo
+229,ekonomi işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,ekonomi
+230,kultur_sanat sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,kultur_sanat
+231,Acil bildirim: saglik işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,saglik
+232,siyaset hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,siyaset
+233,Son uyarı: spor işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,spor
+234,teknoloji hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,teknoloji
+235,kargo sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,kargo
+236,ekonomi bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,ekonomi
+237,kultur_sanat hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,kultur_sanat
+238,saglik başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,saglik
+239,siyaset işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,siyaset
+240,spor sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,spor
+241,Acil bildirim: teknoloji işleminizde sorun tespit edildi. 12 saat içinde doğrulamazsanız işlem iptal edilecektir: http://guvenli-islem.co,phishing,teknoloji
+242,kargo hesabınızda güvenlik doğrulaması gerekmektedir. Hemen kontrol edin: http://hesap-dogrula.net,phishing,kargo
+243,Son uyarı: ekonomi işleminiz askıya alındı. Tekrar etkinleştirmek için giriş yapın: http://onay-islem.info,phishing,ekonomi
+244,kultur_sanat hizmetiniz geçici olarak durduruldu. Devam etmek için doğrulama yapın: http://hizli-dogrulama.link,phishing,kultur_sanat
+245,saglik sisteminde eksik bilgi tespit edildi. Güncellemek için: http://bilgi-guncelle.co,phishing,saglik
+246,siyaset bildirimi: işlem tamamlanamadı. Hemen doğrulama yapın: http://kontrol-panel.net,phishing,siyaset
+247,spor hesabınız kilitlenmek üzere. Erişimi sürdürmek için: http://guvenlik-kontrol.info,phishing,spor
+248,teknoloji başvurunuz beklemeye alındı. Onaylamak için giriş yapın: http://onay-panel.co,phishing,teknoloji
+249,kargo işlem kaydınız doğrulanamadı. Yeniden doğrulamak için: http://hizli-onay.net,phishing,kargo
+250,ekonomi sistem uyarısı: hesabınızı korumak için doğrulama gereklidir: http://guvenli-hesap.link,phishing,ekonomi

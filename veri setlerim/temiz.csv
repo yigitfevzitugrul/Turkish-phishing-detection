@@ -1,0 +1,251 @@
+id,text,label,category
+1,"Sayın müşterimiz, gönderiniz 05.03.2026 tarihinde tarafınıza başarıyla teslim edilmiştir. İyi günler dileriz.",benign,kargo
+2,Kargonuz belirtilen adrese ulaştırılmıştır. Teslimat detayları için mobil uygulamamızı inceleyebilirsiniz.,benign,kargo
+3,Gönderiniz dağıtıma çıkarılmış olup gün içerisinde teslim edilmesi planlanmaktadır.,benign,kargo
+4,Tarafınıza gönderilen paket şubemize ulaşmıştır. Teslimat süreci başlatılmıştır.,benign,kargo
+5,Kargonuz teslim edilmiştir. Hizmetimizi değerlendirmek için anket bağlantısını uygulamamızdan görüntüleyebilirsiniz.,benign,kargo
+6,Gönderiniz planlanan teslim tarihine uygun şekilde işleme alınmıştır.,benign,kargo
+7,Paketiniz dağıtım merkezine ulaşmıştır. Süreçle ilgili bilgilendirme yapılacaktır.,benign,kargo
+8,Kargonuz güvenli şekilde teslim edilmiştir. İyi günler dileriz.,benign,kargo
+9,Gönderi takip numaranız ile işlemlerinizi resmi web sitemizden gerçekleştirebilirsiniz.,benign,kargo
+10,Teslimat süreci tamamlanmıştır. Bizi tercih ettiğiniz için teşekkür ederiz.,benign,kargo
+11,Vergi iade talebiniz alınmış olup değerlendirme süreci başlatılmıştır.,benign,ekonomi
+12,Mali destek başvurunuz sistemimize kaydedilmiştir. Sonuç tarafınıza bildirilecektir.,benign,ekonomi
+13,Banka hesabınızda yapılan işlem başarıyla tamamlanmıştır.,benign,ekonomi
+14,Yatırım hesabı ekstreniz hazırlanmıştır. Mobil bankacılık üzerinden görüntüleyebilirsiniz.,benign,ekonomi
+15,Ödeme planınız güncellenmiştir. Detaylı bilgi için resmi kanallarımızı kullanınız.,benign,ekonomi
+16,Kredi kartı ekstreniz oluşturulmuştur.,benign,ekonomi
+17,Finansal işlem bildiriminiz tarafınıza iletilmiştir.,benign,ekonomi
+18,Vergi borcu sorgulama işleminiz tamamlanmıştır.,benign,ekonomi
+19,Destek başvurunuz değerlendirme aşamasındadır.,benign,ekonomi
+20,Ödeme talimatınız başarıyla alınmıştır.,benign,ekonomi
+21,Kültür etkinliği katılım kaydınız onaylanmıştır.,benign,kultur_sanat
+22,Tiyatro bileti satın alma işleminiz tamamlanmıştır.,benign,kultur_sanat
+23,Konser etkinliği için giriş saati bilgisi tarafınıza iletilmiştir.,benign,kultur_sanat
+24,Müze kartı başvurunuz alınmıştır.,benign,kultur_sanat
+25,Sanat atölyesi kaydınız başarıyla oluşturulmuştur.,benign,kultur_sanat
+26,Festival program detayları resmi internet sitesinde yayımlanmıştır.,benign,kultur_sanat
+27,Sergi davetiyeniz oluşturulmuştur.,benign,kultur_sanat
+28,Sinema üyeliğiniz aktif durumdadır.,benign,kultur_sanat
+29,Kültür merkezi etkinlik takvimi güncellenmiştir.,benign,kultur_sanat
+30,Bilet iade talebiniz işleme alınmıştır.,benign,kultur_sanat
+31,Hastane randevunuz oluşturulmuştur.,benign,saglik
+32,Muayene sonucunuz sisteme yüklenmiştir.,benign,saglik
+33,Sağlık sigortası poliçeniz yenilenmiştir.,benign,saglik
+34,Aşı randevu bilgilendirmeniz yapılmıştır.,benign,saglik
+35,Laboratuvar sonuçlarınız hazırdır.,benign,saglik
+36,Tahlil talebiniz alınmıştır.,benign,saglik
+37,Sağlık kontrol kaydınız oluşturulmuştur.,benign,saglik
+38,Randevu saatiniz yaklaşmaktadır.,benign,saglik
+39,Poliklinik başvurunuz tamamlanmıştır.,benign,saglik
+40,Sağlık danışma hattımıza başvurunuz kaydedilmiştir.,benign,saglik
+41,Seçmen kaydınız güncellenmiştir.,benign,siyaset
+42,Resmi başvurunuz sistemimize alınmıştır.,benign,siyaset
+43,Kimlik yenileme randevunuz oluşturulmuştur.,benign,siyaset
+44,Başvuru sonucunuz tarafınıza iletilecektir.,benign,siyaset
+45,Resmi duyuru yayımlanmıştır.,benign,siyaset
+46,Vatandaşlık işleminiz tamamlanmıştır.,benign,siyaset
+47,Devlet portalı giriş bilgilendirmesi yapılmıştır.,benign,siyaset
+48,Evrak talebiniz işleme alınmıştır.,benign,siyaset
+49,Kamu hizmet başvurunuz kaydedilmiştir.,benign,siyaset
+50,Resmi bilgilendirme mesajıdır.,benign,siyaset
+51,Maç bileti satın alma işleminiz tamamlanmıştır.,benign,spor
+52,Kulüp üyeliğiniz aktif durumdadır.,benign,spor
+53,Turnuva kayıt işleminiz başarıyla gerçekleştirilmiştir.,benign,spor
+54,Spor etkinliği programı güncellenmiştir.,benign,spor
+55,Stadyum giriş kartınız hazırdır.,benign,spor
+56,Antrenman saati bilgilendirmesi yapılmıştır.,benign,spor
+57,Spor kulübü duyurusu yayımlanmıştır.,benign,spor
+58,Maç programı tarafınıza iletilmiştir.,benign,spor
+59,Üyelik yenileme talebiniz alınmıştır.,benign,spor
+60,Bilet teslim işlemi tamamlanmıştır.,benign,spor
+61,E-posta hesabınız başarıyla güncellenmiştir.,benign,teknoloji
+62,Şifre değiştirme işleminiz tamamlanmıştır.,benign,teknoloji
+63,Yazılım güncellemesi yüklenmiştir.,benign,teknoloji
+64,Bulut depolama alanınız artırılmıştır.,benign,teknoloji
+65,Güvenlik bildirimi tarafınıza iletilmiştir.,benign,teknoloji
+66,Lisans yenileme işleminiz tamamlanmıştır.,benign,teknoloji
+67,Hesap doğrulama işleminiz başarıyla sonuçlanmıştır.,benign,teknoloji
+68,Mobil uygulama güncellemesi yayınlanmıştır.,benign,teknoloji
+69,Sistem bakım çalışması planlanmıştır.,benign,teknoloji
+70,Teknik destek talebiniz alınmıştır.,benign,teknoloji
+71,Gönderiniz planlanan tarihte teslim edilmiştir.,benign,kargo
+72,Vergi ödeme işleminiz başarıyla gerçekleştirilmiştir.,benign,ekonomi
+73,Etkinlik katılım belgeniz hazırlanmıştır.,benign,kultur_sanat
+74,Randevu değişiklik talebiniz işleme alınmıştır.,benign,saglik
+75,Başvurunuz değerlendirme sürecindedir.,benign,siyaset
+76,Spor organizasyonu kayıt onayınız oluşturulmuştur.,benign,spor
+77,Hesap güvenlik ayarlarınız güncellenmiştir.,benign,teknoloji
+78,Kamu bilgilendirme mesajıdır.,benign,siyaset
+79,Finansal bilgilendirme metnidir.,benign,ekonomi
+80,Kültürel faaliyet duyurusudur.,benign,kultur_sanat
+81,"Kargom yarın dağıtıma çıkacakmış, evde misin?",benign,kargo
+82,"Trendyol siparişim kargoya verilmiş, takip numarasını atıyorum.",benign,kargo
+83,"Dostum kargo şubesinin önündeyim, senin paketi de alayım mı?",benign,kargo
+84,"Yeni kargo firmasıyla anlaşma sağladık, toplantı saat 14:00'te.",benign,kargo
+85,"Netflix şifremi unuttum, sana zahmet bana gönderir misin?",benign,teknoloji
+86,"Banka hesabıma maaş yatmış, akşam yemeğe çıkalım.",benign,ekonomi
+87,"Kargo takip numarasını WhatsApp'tan yolladım, oradan bakabilirsin.",benign,kargo
+88,"Oyun hesabımın şifresini değiştirdim, yenisiyle giriş yaparsın.",benign,teknoloji
+89,Vergi dairesindeki işlerimi halledip ofise geçiyorum.,benign,ekonomi
+90,Toplantı tutanaklarını onay için e-posta adresinize gönderdim.,benign,teknoloji
+91,Adres değişikliği formunu doldurup insan kaynaklarına teslim ettim.,benign,siyaset
+92,"Telefonumun yazılım güncellemesi bitti, sonunda arayabilirsin.",benign,teknoloji
+93,"Maaş onayı yöneticiden geçmiş, yarın hesaplara yatar.",benign,ekonomi
+94,"Kargo şirketinden aradılar adresi bulamamışlar, tarif ettim.",benign,kargo
+95,Sisteme giriş için tek kullanımlık şifreniz SMS ile iletilmiştir.,benign,teknoloji
+96,"Proje güncelleme notlarını ortak klasöre ekledim, inceleyebilirsiniz.",benign,teknoloji
+97,"Vergi ödememi internet bankacılığından hallettim, dekontu atıyorum.",benign,ekonomi
+98,"Hesap özetini kontrol ettim, herhangi bir yanlışlık görünmüyor.",benign,ekonomi
+99,"Sipariş onay maili geldi, haftaya teslim edilecekmiş.",benign,kargo
+100,"Yeni adres bilgimi sisteme kaydettim, kargolar artık oraya gelecek.",benign,kargo
+101,"Siparişiniz yola çıkmıştır, kargo takip numaranız SMS ile iletilecektir.",benign,kargo
+102,"Kargomu teslim aldım, teşekkür ederim sorunsuz ulaştı.",benign,kargo
+103,"İade kodunuz oluşturulmuştur, paketinizi herhangi bir şubeden teslim edebilirsiniz.",benign,kargo
+104,"Kargo görevlisi adresi bulamamış, seni arayacakmış haberin olsun.",benign,kargo
+105,Yarınki kargo teslimatı için evde olacağım.,benign,kargo
+106,"Siparişimdeki ürünlerden biri eksik gelmiş, kargo firmasıyla görüştüm.",benign,kargo
+107,Adresime gelen kargoyu komşum teslim almış.,benign,kargo
+108,"Hafta sonu kargo dağıtımı yapmıyorlarmış, pazartesiye kaldı.",benign,kargo
+109,"Market siparişin kapıya bırakıldı, afiyet olsun.",benign,kargo
+110,Kargo şubesindeki yoğunluktan dolayı teslimat gecikebilirmiş.,benign,kargo
+111,"Kredi kartı hesap kesim tarihiniz yarındır, ödemenizi unutmayınız.",benign,ekonomi
+112,"Maaş hesabıma avans yatırılmış, kontrol ettim sorun yok.",benign,ekonomi
+113,"Kiranı hesabına gönderdim, teyit edince haber verir misin?",benign,ekonomi
+114,"Döviz hesabındaki işlemi onayladım, makbuz e-postana düştü.",benign,ekonomi
+115,Bireysel emeklilik fon dağılım oranlarınız güncellenmiştir.,benign,ekonomi
+116,Fatura otomatik ödeme talimatınız başarıyla gerçekleştirildi.,benign,ekonomi
+117,"Banka şubesinden aradılar, kredi onay sürecim tamamlanmış.",benign,ekonomi
+118,Vergi borcu yapılandırma taksitimi internetten ödedim.,benign,ekonomi
+119,Harcama itirazınız incelenmiş olup tutar hesabınıza iade edilmiştir.,benign,ekonomi
+120,"Ortak hesabın şifresini unuttum, yeni şifre talep ettim.",benign,ekonomi
+121,E-devlet şifrenizle sisteme giriş yapıldı. Siz değilseniz numarayı arayınız.,benign,teknoloji
+122,Modem arızası için teknik servis talebiniz oluşturuldu.,benign,teknoloji
+123,"Toplantı linkini gruba attım, saat 15:00'te görüşürüz.",benign,teknoloji
+124,Sunucu bakım çalışması nedeniyle gece 02:00'de sistem kesintisi olacaktır.,benign,teknoloji
+125,"Tablet için yeni bir yazılım güncellemesi gelmiş, akşam kuracağım.",benign,teknoloji
+126,"Kurumsal e-posta hesabımın kotası dolmuş, arşive alıyorum.",benign,teknoloji
+127,İki adımlı doğrulama kodunuz: 482910. Lütfen kimseyle paylaşmayınız.,benign,teknoloji
+128,Uygulama üzerinden profil fotoğrafımı güncelledim.,benign,teknoloji
+129,"Wi-Fi şifresini değiştirmişsin galiba, bağlanamıyorum.",benign,teknoloji
+130,"Proje dosyasını buluta yükledim, indirme bağlantısı WhatsApp'ta.",benign,teknoloji
+131,Diş hekimi randevunuz yarın saat 10:30'dadır. Gecikmeyiniz.,benign,saglik
+132,Kan tahlili sonuçlarımı e-nabız üzerinden kontrol ettim.,benign,saglik
+133,"Reçeteniz sisteme yazılmıştır, eczaneden TC kimlik numaranızla alabilirsiniz.",benign,saglik
+134,"Fizik tedavi seansım bitti, şimdi eve geçiyorum.",benign,saglik
+135,"Eczaneden ilaçlarımı aldım, toplam tutar beklediğimden az tuttu.",benign,saglik
+136,"Sağlık ocağındaki doktor yarın izinliymiş, randevuyu haftaya erteledim.",benign,saglik
+137,Gözlük camı değişimi için optikçiye gideceğim.,benign,saglik
+138,"Raporlu ilaçlarımın süresi dolmuş, yeniletmek için doktora görüneceğim.",benign,saglik
+139,Spor salonu üyeliğimi yenilemek için onay mesajı geldi.,benign,spor
+140,"Halı saha maçının saati 21:00 olarak güncellenmiştir, bilginize.",benign,spor
+141,Tiyatro biletlerimizi barkod olarak mailime göndermişler.,benign,kultur_sanat
+142,Kütüphaneden aldığım kitapların iade süresini uzattım.,benign,kultur_sanat
+143,"Konser girişinde kimlik kontrolü yapacaklarmış, unutma.",benign,kultur_sanat
+144,Vizelere çalışmak için çalışma salonundan yer ayırttım.,benign,egitim
+145,Sınav giriş belgeniz öğrenci işleri sisteminde erişime açılmıştır.,benign,egitim
+146,"Derse biraz geç kalacağım, hoca yoklama alırsa haber verir misin?",benign,egitim
+147,"Belediye su kesintisi mesajı atmış, akşam sular gidecekmiş.",benign,siyaset
+148,"Pasaport başvuru durumumu kontrol ettim, basım aşamasındaymış.",benign,siyaset
+149,Mahalle muhtarından ikametgah belgemi teslim aldım.,benign,siyaset
+150,Ehliyet yenileme randevum Nüfus Müdürlüğü'nde onaylandı.,benign,siyaset
+151,Bilgilendirme: kargo hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,kargo
+152,Resmi duyuru: ekonomi kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,ekonomi
+153,kultur_sanat işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,kultur_sanat
+154,saglik hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,saglik
+155,siyaset başvurunuz sistemimizde güncellenmiştir.,benign,siyaset
+156,spor hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,spor
+157,teknoloji kapsamında iletilen talebiniz işleme alınmıştır.,benign,teknoloji
+158,kargo işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,kargo
+159,ekonomi hizmetine ait süreç tamamlanmıştır.,benign,ekonomi
+160,kultur_sanat bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,kultur_sanat
+161,Bilgilendirme: saglik hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,saglik
+162,Resmi duyuru: siyaset kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,siyaset
+163,spor işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,spor
+164,teknoloji hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,teknoloji
+165,kargo başvurunuz sistemimizde güncellenmiştir.,benign,kargo
+166,ekonomi hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,ekonomi
+167,kultur_sanat kapsamında iletilen talebiniz işleme alınmıştır.,benign,kultur_sanat
+168,saglik işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,saglik
+169,siyaset hizmetine ait süreç tamamlanmıştır.,benign,siyaset
+170,spor bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,spor
+171,Bilgilendirme: teknoloji hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,teknoloji
+172,Resmi duyuru: kargo kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,kargo
+173,ekonomi işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,ekonomi
+174,kultur_sanat hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,kultur_sanat
+175,saglik başvurunuz sistemimizde güncellenmiştir.,benign,saglik
+176,siyaset hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,siyaset
+177,spor kapsamında iletilen talebiniz işleme alınmıştır.,benign,spor
+178,teknoloji işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,teknoloji
+179,kargo hizmetine ait süreç tamamlanmıştır.,benign,kargo
+180,ekonomi bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,ekonomi
+181,Bilgilendirme: kultur_sanat hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,kultur_sanat
+182,Resmi duyuru: saglik kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,saglik
+183,siyaset işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,siyaset
+184,spor hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,spor
+185,teknoloji başvurunuz sistemimizde güncellenmiştir.,benign,teknoloji
+186,kargo hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,kargo
+187,ekonomi kapsamında iletilen talebiniz işleme alınmıştır.,benign,ekonomi
+188,kultur_sanat işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,kultur_sanat
+189,saglik hizmetine ait süreç tamamlanmıştır.,benign,saglik
+190,siyaset bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,siyaset
+191,Bilgilendirme: spor hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,spor
+192,Resmi duyuru: teknoloji kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,teknoloji
+193,kargo işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,kargo
+194,ekonomi hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,ekonomi
+195,kultur_sanat başvurunuz sistemimizde güncellenmiştir.,benign,kultur_sanat
+196,saglik hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,saglik
+197,siyaset kapsamında iletilen talebiniz işleme alınmıştır.,benign,siyaset
+198,spor işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,spor
+199,teknoloji hizmetine ait süreç tamamlanmıştır.,benign,teknoloji
+200,kargo bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,kargo
+201,Bilgilendirme: ekonomi hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,ekonomi
+202,Resmi duyuru: kultur_sanat kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,kultur_sanat
+203,saglik işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,saglik
+204,siyaset hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,siyaset
+205,spor başvurunuz sistemimizde güncellenmiştir.,benign,spor
+206,teknoloji hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,teknoloji
+207,kargo kapsamında iletilen talebiniz işleme alınmıştır.,benign,kargo
+208,ekonomi işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,ekonomi
+209,kultur_sanat hizmetine ait süreç tamamlanmıştır.,benign,kultur_sanat
+210,saglik bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,saglik
+211,Bilgilendirme: siyaset hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,siyaset
+212,Resmi duyuru: spor kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,spor
+213,teknoloji işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,teknoloji
+214,kargo hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,kargo
+215,ekonomi başvurunuz sistemimizde güncellenmiştir.,benign,ekonomi
+216,kultur_sanat hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,kultur_sanat
+217,saglik kapsamında iletilen talebiniz işleme alınmıştır.,benign,saglik
+218,siyaset işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,siyaset
+219,spor hizmetine ait süreç tamamlanmıştır.,benign,spor
+220,teknoloji bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,teknoloji
+221,Bilgilendirme: kargo hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,kargo
+222,Resmi duyuru: ekonomi kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,ekonomi
+223,kultur_sanat işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,kultur_sanat
+224,saglik hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,saglik
+225,siyaset başvurunuz sistemimizde güncellenmiştir.,benign,siyaset
+226,spor hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,spor
+227,teknoloji kapsamında iletilen talebiniz işleme alınmıştır.,benign,teknoloji
+228,kargo işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,kargo
+229,ekonomi hizmetine ait süreç tamamlanmıştır.,benign,ekonomi
+230,kultur_sanat bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,kultur_sanat
+231,Bilgilendirme: saglik hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,saglik
+232,Resmi duyuru: siyaset kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,siyaset
+233,spor işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,spor
+234,teknoloji hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,teknoloji
+235,kargo başvurunuz sistemimizde güncellenmiştir.,benign,kargo
+236,ekonomi hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,ekonomi
+237,kultur_sanat kapsamında iletilen talebiniz işleme alınmıştır.,benign,kultur_sanat
+238,saglik işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,saglik
+239,siyaset hizmetine ait süreç tamamlanmıştır.,benign,siyaset
+240,spor bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,spor
+241,Bilgilendirme: teknoloji hizmetine ilişkin başvurunuz alınmış olup değerlendirme süreci devam etmektedir.,benign,teknoloji
+242,Resmi duyuru: kargo kapsamında ilettiğiniz talep kayıt altına alınmıştır.,benign,kargo
+243,ekonomi işleminiz başarıyla tamamlanmıştır. Detaylar resmi uygulamada görüntülenebilir.,benign,ekonomi
+244,kultur_sanat hizmetine ilişkin bilgilendirme mesajıdır. Süreç planlandığı şekilde devam etmektedir.,benign,kultur_sanat
+245,saglik başvurunuz sistemimizde güncellenmiştir.,benign,saglik
+246,siyaset hizmetine ait bilgilendirme kaydı oluşturulmuştur.,benign,siyaset
+247,spor kapsamında iletilen talebiniz işleme alınmıştır.,benign,spor
+248,teknoloji işlemi için oluşturduğunuz kayıt başarıyla doğrulanmıştır.,benign,teknoloji
+249,kargo hizmetine ait süreç tamamlanmıştır.,benign,kargo
+250,ekonomi bildiriminiz tarafımıza ulaşmıştır ve kayıt altına alınmıştır.,benign,ekonomi
