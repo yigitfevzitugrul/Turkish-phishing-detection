@@ -1,28 +1,59 @@
-# 🛡️ NLP-Based Turkish Phishing and Smishing Detection System
+# 🛡️ NLP Tabanlı Türkçe Oltalama (Phishing) ve Smishing Tespit Sistemi
 
-[![Türkçe](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red)](README.tr.md)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?style=for-the-badge&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-This project is a machine learning-based defense system that detects phishing and smishing (SMS phishing) attacks in Turkish texts by combining Cybersecurity and Natural Language Processing (NLP) disciplines.
+Bu proje, Siber Güvenlik ve Doğal Dil İşleme (NLP) disiplinlerini bir araya getirerek, Türkçe metinlerdeki oltalama (phishing) ve sahte SMS (smishing) saldırılarını tespit eden makine öğrenmesi tabanlı bir savunma sistemidir. Gelen mesajların yapısal ve anlamsal bütünlüğünü analiz ederek olası siber tehditleri gerçek zamanlı olarak sınıflandırır.
 
-The system analyzes the structural and semantic integrity of incoming messages and warns the user against potential cyber threats.
+---
 
-## 🚀 Features
+## 📊 Veri Seti ve Model Performansı
 
-* **Custom Dataset:** Instead of using ready-made English datasets, a completely original and balanced Turkish dataset of **300 rows (150 Benign, 150 Phishing)** was created from scratch, tailored to current cyber attack vectors in Turkey (Cargo, E-Government, Banking, Legal/Execution).
-* **Advanced Text Preprocessing:** Texts were analyzed from a cybersecurity perspective. Malicious links frequently used by attackers were detected using Regex and converted into `<URL>` tokens to prevent the model from memorizing specific links.
-* **Machine Learning (TF-IDF & Logistic Regression):** Texts were vectorized using the TF-IDF (Term Frequency-Inverse Document Frequency) method and classified with high accuracy using the Logistic Regression algorithm.
-* **User-Friendly Web Interface:** The project goes beyond the terminal. It has been transformed into an interactive web UI using the `Streamlit` library, allowing anyone to easily analyze messages.
+Model, internetteki hazır ve hatalı çeviri veri setleri yerine, Türkiye'deki güncel siber saldırı vektörlerine özel olarak sıfırdan oluşturulmuş özgün bir veri seti ile eğitilmiştir.
 
-## 🛠️ Technologies Used
-* **Language:** Python 3.x
-* **Data Science & NLP:** Pandas, Scikit-Learn, Regex (re)
-* **Frontend:** Streamlit
+### Veri Seti Dağılımı
+| Kategori | Temiz (Benign) Veri Sayısı | Zararlı (Phishing) Veri Sayısı | Toplam |
+| :--- | :---: | :---: | :---: |
+| **Kargo & Lojistik** | 30 | 30 | 60 |
+| **Banka & Ekonomi** | 30 | 30 | 60 |
+| **Hukuk & İcra (UYAP vb.)** | 10 | 30 | 40 |
+| **Teknoloji & Sosyal Medya** | 50 | 40 | 90 |
+| **Kamu & Kurum (E-Devlet vb.)**| 30 | 20 | 50 |
+| **TOPLAM** | **150** | **150** | **300** |
 
-## 💻 Installation and Usage
+### Lojistik Regresyon Test Metrikleri
+Test verisi (%20 oranında ayrılmış) üzerinde yapılan sınıflandırma raporu sonuçları:
 
-To run the project on your local machine, follow these steps:
+| Sınıf | Precision (Kesinlik) | Recall (Duyarlılık) | F1-Score |
+| :--- | :---: | :---: | :---: |
+| **0 (Temiz)** | 1.00 | 1.00 | 1.00 |
+| **1 (Zararlı)** | 1.00 | 1.00 | 1.00 |
+| **Genel Doğruluk (Accuracy)** | **-** | **-** | **%100.0** |
 
-**1. Clone the repository:**
+*(Not: Veri seti genişletildikçe modelin gerçek hayat senaryolarındaki başarı oranlarının daha objektif seviyelere stabilize olması hedeflenmektedir.)*
+
+---
+
+## ⚙️ Mimari ve Teknik Altyapı
+
+1. **Gelişmiş Metin Ön İşleme:** Saldırganların sık kullandığı zararlı bağlantılar Regex ile yakalanır ve `<URL>` token'larına dönüştürülür. Bu, modelin belirli domainleri ezberlemesini (overfitting) engeller.
+2. **Vektörizasyon (TF-IDF):** Metinler, seyrek (sparse) matrislere dönüştürülerek kelimelerin doküman içindeki ayırt edicilik ağırlıkları hesaplanır.
+3. **Sınıflandırma:** Vektörize edilen veriler, hiperparametreleri optimize edilmiş Lojistik Regresyon modeli ile sınıflandırılır ve sonuçlar olasılık yüzdesi ile kullanıcıya sunulur.
+
+---
+
+## 💻 Geliştiriciler İçin Kurulum Rehberi
+
+Projeyi kendi lokal ortamınızda çalıştırmak ve test etmek için aşağıdaki adımları sırasıyla izleyin. Kütüphane çakışmalarını önlemek adına **sanal ortam (virtual environment)** kullanılması şiddetle tavsiye edilir.
+
+### 1. Depoyu Klonlayın
 ```bash
-git clone [https://github.com/YOUR_USERNAME/turkish-phishing-detection-nlp.git](https://github.com/YOUR_USERNAME/turkish-phishing-detection-nlp.git)
-cd turkish-phishing-detection-nlp
+git clone [https://github.com/yigitfevzitugrul/Turkish-phishing-detection.git](https://github.com/yigitfevzitugrul/Turkish-phishing-detection.git)
+cd Turkish-phishing-detection
+
+
+
+
+
