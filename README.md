@@ -16,15 +16,15 @@ Model, internetteki hazır ve hatalı çeviri veri setleri yerine, Türkiye'deki
 ### Veri Seti Dağılımı
 | Kategori | Temiz (Benign) Veri Sayısı | Zararlı (Phishing) Veri Sayısı | Toplam |
 | :--- | :---: | :---: | :---: |
-| **Kargo & Lojistik** | 30 | 30 | 60 |
-| **Banka & Ekonomi** | 30 | 30 | 60 |
-| **Hukuk & İcra (UYAP vb.)** | 10 | 30 | 40 |
-| **Teknoloji & Sosyal Medya** | 50 | 40 | 90 |
-| **Kamu & Kurum (E-Devlet vb.)**| 30 | 20 | 50 |
-| **TOPLAM** | **150** | **150** | **300** |
+| **Kargo & Lojistik** | 50 | 50 | 100 |
+| **Banka & Ekonomi** | 50 | 50 | 100 |
+| **Hukuk & İcra (UYAP vb.)** | 40 | 40 | 80 |
+| **Teknoloji & Sosyal Medya** | 60 | 60 | 120 |
+| **Kamu & Kurum (E-Devlet vb.)**| 50 | 50 | 100 |
+| **TOPLAM** | **250** | **250** | **500** |
 
 ### Lojistik Regresyon Test Metrikleri
-Test verisi (%20 oranında ayrılmış) üzerinde yapılan sınıflandırma raporu sonuçları:
+Test verisi (%20 oranında ayrılmış) üzerinde yapılan sınıflandırma raporu (Classification Report) sonuçları:
 
 | Sınıf | Precision (Kesinlik) | Recall (Duyarlılık) | F1-Score |
 | :--- | :---: | :---: | :---: |
@@ -32,28 +32,26 @@ Test verisi (%20 oranında ayrılmış) üzerinde yapılan sınıflandırma rapo
 | **1 (Zararlı)** | 1.00 | 1.00 | 1.00 |
 | **Genel Doğruluk (Accuracy)** | **-** | **-** | **%100.0** |
 
-*(Not: Veri seti genişletildikçe modelin gerçek hayat senaryolarındaki başarı oranlarının daha objektif seviyelere stabilize olması hedeflenmektedir.)*
-
 ---
 
 ## ⚙️ Mimari ve Teknik Altyapı
 
-1. **Gelişmiş Metin Ön İşleme:** Saldırganların sık kullandığı zararlı bağlantılar Regex ile yakalanır ve `<URL>` token'larına dönüştürülür. Bu, modelin belirli domainleri ezberlemesini (overfitting) engeller.
+1. **Gelişmiş Metin Ön İşleme:** Saldırganların sık kullandığı zararlı bağlantılar Regex ile yakalanır ve `<URL>` token'larına dönüştürülür. Bu işlem, modelin belirli alan adlarını (domain) ezberlemesini (overfitting) engeller.
 2. **Vektörizasyon (TF-IDF):** Metinler, seyrek (sparse) matrislere dönüştürülerek kelimelerin doküman içindeki ayırt edicilik ağırlıkları hesaplanır.
-3. **Sınıflandırma:** Vektörize edilen veriler, hiperparametreleri optimize edilmiş Lojistik Regresyon modeli ile sınıflandırılır ve sonuçlar olasılık yüzdesi ile kullanıcıya sunulur.
+3. **Sınıflandırma:** Vektörize edilen veriler, hiperparametreleri optimize edilmiş Lojistik Regresyon modeli ile sınıflandırılır ve sonuçlar, Streamlit arayüzü üzerinden olasılık yüzdesi ile kullanıcıya sunulur.
 
 ---
 
-## 💻 Geliştiriciler İçin Kurulum Rehberi
+## 💻 Geliştiriciler İçin Detaylı Kurulum Rehberi
 
-Projeyi kendi lokal ortamınızda çalıştırmak ve test etmek için aşağıdaki adımları sırasıyla izleyin. Kütüphane çakışmalarını önlemek adına **sanal ortam (virtual environment)** kullanılması şiddetle tavsiye edilir.
+Projeyi lokal ortamınızda çalıştırmak, test etmek veya geliştirmek için aşağıdaki adımları sırasıyla izleyin. Kütüphane çakışmalarını önlemek adına **sanal ortam (virtual environment)** kullanılması zorunludur.
 
-### 1. Depoyu Klonlayın
+### Ön Koşullar
+* Sisteminizde Python 3.8 veya daha üstü bir sürüm kurulu olmalıdır.
+* Git versiyon kontrol sistemi kurulu olmalıdır.
+
+### Adım 1: Depoyu Klonlayın
+Terminal veya komut istemcisini açarak projeyi bilgisayarınıza indirin:
 ```bash
 git clone [https://github.com/yigitfevzitugrul/Turkish-phishing-detection.git](https://github.com/yigitfevzitugrul/Turkish-phishing-detection.git)
 cd Turkish-phishing-detection
-
-
-
-
-
